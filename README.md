@@ -10,7 +10,7 @@ Data
 - Results - partially included
   - Needed file is also included in the google drive download
 - Other files not included
-  - Download "all.csv" from: [https://datahub.io/core/country-list](https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes/blob/master/all/all.csv)
+  - Download "all.csv" from: https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes/blob/master/all/all.csv
     - Rename it to "CountryInfo.csv"
   - Download "artists.csv" from: https://www.kaggle.com/code/pieca111/music-production-across-the-world/input
   - Put these files at the root of the data folder
