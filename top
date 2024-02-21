@@ -1,0 +1,144 @@
+[33mcommit db5ee75ed585cc7e70b5e538fd552475a771c068[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: minne4all <minnevanderpoel@gmail.com>
+Date:   Wed Feb 21 13:23:00 2024 +0100
+
+    initial commit
+
+[1mdiff --git a/Data/artistId.csv b/Data/artistId.csv[m
+[1mdeleted file mode 100644[m
+[1mindex 31a688b..0000000[m
+[1m--- a/Data/artistId.csv[m
+[1m+++ /dev/null[m
+[36m@@ -1,5241231 +0,0 @@[m
+[31m-,name,id[m
+[31m-0,Mika Miko,0[m
+[31m-1,Comm,1[m
+[31m-2,deadmau5,2[m
+[31m-3,Rasheed Chappell,3[m
+[31m-4,rck,4[m
+[31m-5,Неизвест. исполнитель,5[m
+[31m-6,[AMATORY],6[m
+[31m-7,X Japan,7[m
+[31m-8,Oliver,8[m
+[31m-9,'Q@=K9 >D5,9[m
+[31m-10,0=40 G5BK@QE,10[m
+[31m-11,Drudkh,11[m
+[31m-12,>: >3,12[m
+[31m-13,Nervenklinik,13[m
+[31m-14,;5:A0=4@ 20:8= (>: >3),14[m
+[31m-15, DEÿD VIRGIN ,15[m
+[31m-16,MC Val,16[m
+[31m-17,Koma + Bones,17[m
+[31m-18,CAB025;8,18[m
+[31m-19,840 8:>;09GC:,19[m
+[31m-20,$@M=:8 - (>C,20[m
+[31m-21,DECAYS,21[m
+[31m-22,Wagner,22[m
+[31m-23,té,23[m
+[31m-24,C.A.2K,24[m
+[31m-25,Imandra,25[m
+[31m-26,Oranssi Pazuzu,26[m
+[31m-27,The Machine,27[m
+[31m-28,You Are in My September!,28[m
+[31m-29,0A:>;L=8:>2 & 0@18BC@=K9,29[m
+[31m-30,King Goblin,30[m
+[31m-31,Ruff squad,31[m
+[31m-32,Nalin & Kane,32[m
+[31m-33,Frank Bretschneider,33[m
+[31m-34,Way Out West,34[m
+[31m-35,Alexandroid,35[m
+[31m-36,No Angels,36[m
+[31m-37,Stevie Ray Vaughan and Double Trouble,37[m
+[31m-38,Laika & The Cosmonauts,38[m
+[31m-39,Astrix,39[m
+[31m-40,Kano,40[m
+[31m-41,Benga,41[m
+[31m-42,Love Joys,42[m
+[31m-43,Dee Dee Ramone,43[m
+[31m-44,Dewey Redman,44[m
+[31m-45,Gram,45[m
+[31m-46,Nausea,46[m
+[31m-47,Makhlok Perosak,47[m
+[31m-48,Onethema,48[m
+[31m-49,Riotmen,49[m
+[31m-50,Manuel Monestel,50[m
+[31m-51,the MISHAP CREW!!,51[m
+[31m-52,Platero y tú,52[m
+[31m-53,Sugababes,53[m
+[31m-54,The Pusherman,54[m
+[31m-55,MarkOne,55[m
+[31m-56,Black Dice,56[m
+[31m-57,Leonard Cohen,57[m
+[31m-58,Blamstrain,58[m
+[31m-59,James Call,59[m
+[31m-60,Skank,60[m
+[31m-61,Copy Cat Project,61[m
+[31m-62,Jane Birkin,62[m
+[31m-63,Essentials,63[m
+[31m-64,Georges Brassens,64[m
+[31m-65,Lisha,65[m
+[31m-66,Enzo Enzo,66[m
+[31m-67,polO,67[m
+[31m-68,Coralie Clément,68[m
+[31m-69,Sanseverino,69[m
+[31m-70,Serge Gainsbourg,70[m
+[31m-71,Paris Combo,71[m
+[31m-72,Mathieu Boogaerts,72[m
+[31m-73,Barbara,73[m
+[31m-74,The Crystals,74[m
+[31m-75,Brigitte Bardot,75[m
+[31m-76,My Bloody Valentine,76[m
+[31m-77,The Ex,77[m
+[31m-78,The Ronettes,78[m
+[31m-79,#####,79[m
+[31m-80,"(, , )",80[m
+[31m-81,",",81[m
+[31m-82,", ,",82[m
+[31m-83,10,83[m
+[31m-84,100% Collègues,84[m
+[31m-85,100Blumen,85[m
+[31m-86,13,86[m
+[31m-87,13.Oi,87[m
+[31m-88,4scums,88[m
+[31m-89,5=8=3@04,89[m
+[31m-90,;]]]]]]]]],90[m
+[31m-91,AMERICA DEL SUR,91[m
+[31m-92,Adagio (Albinoni),92[m
+[31m-93,Andrew Bird,93[m
+[31m-94,AntiGlobalizator,94[m
+[31m-95,Basket,95[m
+[31m-96,Batfoot!,96[m
+[31m-97,Big Bud,97[m
+[31m-98,Bishmanrock,98[m
+[31m-99,Block B,99[m
+[31m-100,Boehse Onkelz,100[m
+[31m-101,Boston George & Boo Rossini,101[m
+[31m-102,Brigade M,102[m
+[31m-103,Bronx Boys,103[m
+[31m-104,BruteForce Attack,104[m
+[31m-105,Böhse Onkelz,105[m
+[31m-106,B”hse Onkelz,106[m
+[31m-107,Cobra,107[m
+[31m-108,DJ EBAN,108[m
+[31m-109,Da Budz Feat. Dj Женя,109[m
+[31m-110,Die Sonne Satan,110[m
+[31m-111,Dire Straits,111[m
+[31m-112,Distemper,112[m
+[31m-113,El Fog,113[m
+[31m-114,Eniac,114[m
+[31m-115,Extince,115[m
+[31m-116,Fat City,116[m
+[31m-117,Finessed Your Bitch (SpongeBob Remix) ACOT x Young Plvg,117[m
+[31m-118,Foetus,118[m
+[31m-119,Fuzzbox,119[m
+[31m-120,George Hrab,120[m
+[31m-121,Ghostface Killah,121[m
+[31m-122,Global Goon,122[m
+[31m-123,Group 1850,123[m
+[31m-124,GusGus - Deep Inside (Mageir Mix) & Egor Boss - Inversion 2.2 (Jeroen Search Remix),124[m
+[31m-125,Hate Time,125[m
+[31m-126,Hellyeah,126[m
+[31m-127,Homebrew,127[m
+[31m-128,Hørdür,128[m
+[31m-129,I must be emo,129[m
+[
